@@ -1,7 +1,7 @@
 # Romanize!
 
 ## Objective
-Create a function that accepts an integer as an argument. It should than convert that number into its roman numeral equivalent.
+Create a function that accepts an integer as an argument. It should than convert that number into its [roman numeral](https://en.wikipedia.org/wiki/Roman_numerals) equivalent.
 
 ```
 2499 = MMCDXCIX
