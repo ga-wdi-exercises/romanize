@@ -26,3 +26,26 @@ var romanize = function (number) {
 
   return result;
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log(romanize(2499))
