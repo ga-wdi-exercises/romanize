@@ -59,4 +59,4 @@ var romanize = function (number) {
 
 
 
-console.log(romanize(2499))
+console.log(romanize(543))
