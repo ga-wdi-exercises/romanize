@@ -15,6 +15,7 @@ You can do this challenge in either JS or Ruby. Pair with someone that wants to 
 ### Pseudo Code!(10m)
 No one is allowed to code for the first 10 minutes. Start writing down/typing how to break this problem down.
 
-### Code!
+### Bonus 
 
-### Bonus - Refactor to JS(if you coded in ruby) and create a website that converts roman numerals!
+- Create a web page that converts roman numerals
+- Refactor to another language
